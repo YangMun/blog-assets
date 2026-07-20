@@ -14,3 +14,5 @@ yangissheepppp.blogspot.com 블로그 이미지 저장소.
 - images/005-phone-scrolling.jpg — https://unsplash.com/photos/someone-is-scrolling-on-their-phone-5nmf-0oW2Mg
 - images/006-hero-notification.jpg — https://unsplash.com/photos/a-hand-holds-a-smartphone-showing-notifications-QGKCe8C3D8g
 - images/006-phone-text.jpg — https://unsplash.com/photos/a-person-holding-a-cell-phone-with-a-text-message-on-the-screen-aSWSfexoRzk
+- images/007-hero-browser.jpg — https://unsplash.com/photos/a-computer-screen-with-a-web-page-on-it-XUXfZY4dOT4
+- images/007-stressed-laptop.jpg — https://unsplash.com/photos/a-person-looking-stressed-at-a-laptop-in-an-office-hjh8cCOUtoo
