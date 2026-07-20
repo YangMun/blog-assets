@@ -16,3 +16,5 @@ yangissheepppp.blogspot.com 블로그 이미지 저장소.
 - images/006-phone-text.jpg — https://unsplash.com/photos/a-person-holding-a-cell-phone-with-a-text-message-on-the-screen-aSWSfexoRzk
 - images/007-hero-browser.jpg — https://unsplash.com/photos/a-computer-screen-with-a-web-page-on-it-XUXfZY4dOT4
 - images/007-stressed-laptop.jpg — https://unsplash.com/photos/a-person-looking-stressed-at-a-laptop-in-an-office-hjh8cCOUtoo
+- images/008-hero-video-phone.jpg — https://unsplash.com/photos/someone-is-watching-a-video-on-their-phone-UPRDLZXVD1s
+- images/008-train-phone.jpg — https://unsplash.com/photos/man-looking-at-phone-at-train-station-platform-AHzZZ6UDQ0M
