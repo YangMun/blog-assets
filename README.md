@@ -8,3 +8,5 @@ yangissheepppp.blogspot.com 블로그 이미지 저장소.
 - images/002-taking-photo.jpg — https://unsplash.com/photos/HI_HiM6JmHs
 - images/003-hero-charging.jpg — https://unsplash.com/photos/W9Z87k4hV08
 - images/003-phone-hand.jpg — https://unsplash.com/photos/R-KqmkXMgJc
+- images/004-hero-router.jpg — https://unsplash.com/photos/router-with-cables-plugged-in-on-yellow-background-KzUCuqTTAVw
+- images/004-laptop-wifi.jpg — https://unsplash.com/photos/person-using-laptop-computer-0WzeC6JtbHU
